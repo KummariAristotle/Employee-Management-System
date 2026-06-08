@@ -1,0 +1,10 @@
+This project includes 6 interrelated tables:
+
+Table name Description:
+
+JobDepartment : Stores job roles, departments, and related salary ranges
+SalaryBonus : Contains salary, bonus, and annual pay linked to specific job roles.
+Employee : Maintains personal, contact, and login details of all employees.
+Qualification : Records qualifications and required skills for employee job positions.
+Leaves Tracks : employee leave records with reasons and dates.
+Payroll : Combines employee, job, salary, and leave data to calculate net payments.
