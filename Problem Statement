@@ -1,0 +1,9 @@
+The objective of this project is to design and implement an Employee Management System that
+efficiently stores and manages employee-related data within an organization. The system needs to track
+various aspects of employee information, including personal details, job roles, salary structures,
+qualifications, leave records, and payroll data. The system should ensure the integrity and consistency
+of data by using relational tables with appropriate foreign keys and cascading actions.
+The system should allow for easy management and querying of employee data, providing insights such
+as payroll calculation, leave tracking, and department-specific job roles. The goal is to streamline HR
+operations, ensuring that all relevant employee data is accessible and accurately updated across
+different modules.
