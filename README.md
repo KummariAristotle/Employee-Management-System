@@ -1,4 +1,4 @@
-Employee Management System SQL Data Analyst Project
+Employee Management System
 Project Overview
 The Employee Management System is a relational database project developed to manage employee-related information within an organization. The system stores and organizes data related to employees, job departments, qualifications, salary structures, leave records, and payroll details. By maintaining relationships between multiple entities, the database ensures data consistency, minimizes redundancy, and supports efficient HR operations.
 Problem Statement
