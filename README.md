@@ -120,7 +120,3 @@ The ER diagram follows a relational database structure where the Employee table 
 ## Learning Outcomes
 
 This project demonstrates practical knowledge of database design, normalization, primary and foreign keys, entity relationships, data integrity, and SQL-based data management. It provides hands-on experience in designing a real-world HR management database system used to support employee and payroll operations.
-
-## Conclusion
-
-The Employee Management System database provides a structured approach to managing employee-related data within an organization. By integrating employee records, job departments, qualifications, salary structures, leave management, and payroll information into a single relational database, the system improves data organization, consistency, and operational efficiency.
